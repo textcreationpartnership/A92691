@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact relation of the taking of Colchester, sent in a letter from an officer of the Army, (who was present during the siege in that service,) to a Member of the House of Commons. VVith a list of the ordnance, arms, and of 3076. private souldiers there taken: also a list of the names of most of the officers of note, and an account of the cause of giving no quarter to Sir Charles Lucas, and Sir George Lyle.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92691</idno>
+            <idno type="STC">Wing S186</idno>
+            <idno type="STC">Thomason E461_24</idno>
+            <idno type="STC">ESTC R203705</idno>
+            <idno type="EEBO-CITATION">99863558</idno>
+            <idno type="PROQUEST">99863558</idno>
+            <idno type="VID">162178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162178)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact relation of the taking of Colchester, sent in a letter from an officer of the Army, (who was present during the siege in that service,) to a Member of the House of Commons. VVith a list of the ordnance, arms, and of 3076. private souldiers there taken: also a list of the names of most of the officers of note, and an account of the cause of giving no quarter to Sir Charles Lucas, and Sir George Lyle.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White for Iohn Partridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.S.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Lisle, George, --  Sir, d. 1648 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162178:1" rendition="simple:additions"/>
+            <p>A True and Exact RELATION Of the taking of COLCHESTER, Sent in a LETTER From an Officer of the ARMY, (who was preſent during the ſiege in that ſervice,) to a Member of the Houſe of <hi>Commons.</hi>
+            </p>
+            <p>VVith a Liſt of the Ordnance, Arms, and of 3076. private ſouldiers there taken: Alſo a Liſt of the names of moſt of the Officers of note, and an account of the Cauſe of giving no Quarter to Sir <hi>Charles Lucas,</hi> and Sir <hi>George Lyle.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert White</hi> for <hi>Iohn Partrige.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162178:2"/>
+            <pb n="1" facs="tcp:162178:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter a long and tedious Siege, (in as wet a ſeaſon as hath been known) an enemy of a deſperate and high reſolution, have at laſt brought themſelves to a low and miſerable condition, and ſome of them being made examples of Juſtice, the beſt of the Conditions of the reſt, is Impriſonment; it was their wilfull ob<g ref="char:EOLhyphen"/>ſtinacie, and hautineſſe of ſpirit, that loſt them the opportunity when they might have had honourable Terms.</p>
+            <p>Three times were the Enemy in <hi>Colcheſter</hi> invited to a Treaty by the Lord General, twice had conditions ſent in, but ſcorn and reproach was the return, and the Trumpeter the laſt time (as appears by writing under the hands of the Lord <hi>Goring, Capell,</hi> and <hi>Lucas</hi>) threatned to be hanged if he came any more upon ſuch a meſſage: Though this night have provoked, and taken off all inclinations of mercy towards them, yet endeavors were not wanting on our parts to undeceive many of the poor, deceived and deluded ſouldiers, from whom their Officers con<g ref="char:EOLhyphen"/>cealed all overtures of a Parley, or Conditions. Arrows were ſhot ſeverall times into the Town, to let the ſouldiers know the Conditions offered, and that yet they might have Paſſes to go to their ſeverall homes, and above 300 ſouldiers came from the Enemy upon that ac<g ref="char:EOLhyphen"/>count, and received their Paſſes accordingly.</p>
+            <p>When Captain <hi>Storm</hi> without, and Captain <hi>Hunger</hi> within, were both prepared to joyn Forces together to break through their ſtone walls, then the Enemy was not ſo high before, but they were as low now, and ſent (aſſoon a our Canon had made a breach in the wall) for a Parley, and prevailed with the Committee their priſoners, to intercede for it, and likewiſe the Townſmen to mediate on the behalf of the
+<pb n="2" facs="tcp:162178:3"/>Town, but they had ſlipt their time: Our ſouldiers were exaſperated with the loſſe of the blood of their fellow ſouldiers, (many being ſlain with chewed and poyſoned bullets;) yet his Excellencie, that all might not ſuffer alike, ſent in theſe Conditions following, viz. <hi>That all private ſouldiers, and Officers, under Captains, ſhall have Paſſes to go to their ſe<g ref="char:EOLhyphen"/>verall homes, engaging themſelves not to bear Arms hereafter againſt the Parliament; and all Captains, and ſuperiour Officers, and Gentlemen, to ſubmit to Mercy.</hi> And underſtanding theſe Overtures, (as the former had been) were concealed from the private ſouldiers, we conveyed con<g ref="char:EOLhyphen"/>ditions in writing to them by annexing them to the Tail of a Paper Kite, which the wind blew into the Town, (a truer ſtory then the Cities <hi>Colcheſter</hi> Bull,) which falling among the ſouldiers, a horſeman endea<g ref="char:EOLhyphen"/>vouring to get it from the foot to carry it to the Generals, occaſioned a muterlie, the foot crying out, They would know what thoſe written Papers meant that were annexed to it, which being read unto them, and perceiving good Conditions intended to them, made ſuch an im<g ref="char:EOLhyphen"/>preſſion upon their ſpirits, that they told their Officers, Either inſtant<g ref="char:EOLhyphen"/>ly make Terms or elſe they would deſert them, or deliver them up to the mercy of our ſouldierss</p>
+            <p>Immediately after the Lord <hi>Goring,</hi> &amp;c. ſent out for a Parley upon Terms of mercy, and Quarter offered, for the ſurrender of the Town, and accordingly ſent forth their Commiſſioners, whoſe chief time was ſpent in explaining the meaning <hi>to ſubmit to Mercy,</hi> which being ex<g ref="char:EOLhyphen"/>plained by our Commiſſioners, (and admitted of by theirs,) that it was meant thereby, That it was in the Generals power to ſave any of thoſe who did ſo ſubmit to Mercy, or to put them to the ſword: The Articles being ſigned upon Munday <hi>Auguſt</hi> 28. 1648. The Town was Surren<g ref="char:EOLhyphen"/>dered, and the three Generals, all Officers, and Gentlemen render themſelves at Mercy, and the private ſouldiers and inferiour Officers up<g ref="char:EOLhyphen"/>on quarter. The ſame day examples of Juſtice was done upon Sir <hi>Charles Lucas,</hi> and Sir <hi>George Lyle,</hi> the former was conceived (and too true) to be the cauſe of the ruine of this place, his intereſt in the Town draw<g ref="char:EOLhyphen"/>ing the Army thither. He was the head of all thoſe that did riſe in this County, and ſo brought the odium of the countrey upon him, and at laſt grew harſh to the Towns people, (a thing contrary to his wonted diſ<g ref="char:EOLhyphen"/>poſition) when they complained for want of bread, not regarding what miſerie he brought upon that place where he was born; beſides, It was affirmed unto him by four perſons at his death, That he put two men to
+<pb n="3" facs="tcp:162178:3"/>the ſword with his own hands in cold blood, long after quarter granted,</p>
+            <p>The other, (as was informed) was a great cauſe of burning of the houſes about the Town, and a perſon bent to much miſchief.</p>
+            <p>This is the firſt example of Juſtice that ever was ſhewed in this kinde (ſince the firſt and ſecond war) by the Parliaments party, though it be according to the rules of war (in ſubmitting to Mercy;) the example hereof was given by the Kings party in the Weſt, when 14 country men, that among others ſubmitted to Mercy, were all hanged up together.</p>
+            <p>For thoſe Officers and ſouldiers who were imployed by the Parlia<g ref="char:EOLhyphen"/>ment, and deſerted their truth, they are to be tryed by a Councell of War, and ſome of them to be made examples for their Treachery.</p>
+            <p>Colonel <hi>Farre</hi> was the third man aſſigned to ſuffer with theſe two, but being concealed he could not then be found, though ſince he is taken, whom the Country cries out much upon, becauſe he drew many an inno<g ref="char:EOLhyphen"/>cent man of the Trained band under the pretence to muſter, not know<g ref="char:EOLhyphen"/>ing they ſhould ingage in matter of blood, he never diſcovering unto them what his intentions were of ingaging them in a Warre againſt the Parliament.</p>
+            <p>The fourth man that was brought to the place of Execution with the other two that ſuffered, was Sir <hi>Bernard Gaſcoyne</hi> an <hi>Jtalian,</hi> who after he had declared himſelf a Papiſt, and preparing for death, was reprieved. The cauſe of his being one deſigned for example, was, his extroardinary forwardneſſe in appearing in perſon in <hi>Kent</hi> with the Lord <hi>Goring,</hi> in putting that County into a poſture of Armes, in perſiſting in that way here in <hi>Eſſex,</hi> and being a man of great action during the ſiege; and be<g ref="char:EOLhyphen"/>ſides, that it might be an example for ſtrangers and forraigners how they preſume in an other Nation, to take that boldneſſe and confidence, as to caſt themſelves out of their protection by ingaging in unwaranta<g ref="char:EOLhyphen"/>ble actions: The carriage of this perſon, as a ſouldier was faire towards our party, and ſo mercy obtained for him.</p>
+            <p>I or the L <hi>Goring</hi> whom the people cry ſo out upon for juſtice againſt him and the like againſt the L. <hi>Capell,</hi> and the L. <hi>Loughborow,</hi> the Gen. and Counſell of War in a ſpeciall manner, left them to the mercy of the Par. that the expectation of the people may be ſatisfied, in the Parl. doing juſtice upon ſome, (a thing they have long look'd for) all the reſt who have likewiſe ſubmitted to mercy, are likewiſe left to the mercy of the Parliament, if they think fit to proceed againſt them in a way of juſtice. Theſe men had not come to this ſharpe accompt, but that God had har<g ref="char:EOLhyphen"/>dened
+<pb n="4" facs="tcp:162178:4"/>their hearts, which were full of bitterneſs of ſpirit, againſt this handfull of men, that did beſiege them, hoping (according to Sir <hi>An<g ref="char:EOLhyphen"/>thony,</hi> St. <hi>Legers</hi> Letter to one of the Captaines in <hi>Colcheſter</hi>) to extir<g ref="char:EOLhyphen"/>pate and deſtroy all thoſe that were honeſt Chriſtians, under the notion of Independents, &amp;c.</p>
+            <p>The Town hath ſuffered aſwell as the men, being ruined in its buildings, Proviſions, People, &amp; Trade; what faire ſtreets are here of ſtately houſes now laid in aſhes? How eminent are their graneries of Corne, (which before the enemies came, exceeded all parts of <hi>England</hi>) And their Cel<g ref="char:EOLhyphen"/>lers and ſtorehouſes of Wine and fruit, where there was plenty be<g ref="char:EOLhyphen"/>fore, are empty now; they who had houſes to live in, now live deſolate for want of habitation, and thoſe who had formerly their tables furniſhed with variety of diſhes (beſides their uſuall dainties of Oyſters and Ringo Roots) have for a long time fed upon Horſes, Dogs, and Cats, Starch, Bran, and Graines, and that with much greedineſs, and many ſtar<g ref="char:EOLhyphen"/>ved to death by hunger.</p>
+            <p>The cheife Miniſter of this place, Mr. <hi>Harmar,</hi> that not long before ſtirred up the people againſt the Army, branding them with the names of Heretiques, and Schiſmaticks, and the people of the Towne who af<g ref="char:EOLhyphen"/>fronted and abuſed our ſouldiers when they quartered there, now both Miniſters and people have longed for their deliverance by the hands of thoſe whom they ſo much diſpiſed before.</p>
+            <p>What place in the Kingdome like this drove ſuch a Trade with <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in all the former Warres, but ſince they Traded with Cavaliers, and admitted them ſo freely into their Towne, what place hath been more debarred thereof? Let this be a warning to <hi>London</hi> how they imbrace thoſe whom God fights againſt, and how they hereafter caſt off thoſe whom God ownes.</p>
+            <p>If it be asked why the L. <hi>Goring</hi> &amp;c. held out ſo long? it is anſwered, (as ſome of their party have confeſſed) that they did it to the end, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament might be cudgelled with a Reformado party, and that the Generall and thoſe Forces with him might be here ſo engaged, as not to be able to reſiſt the Kings friends from riſiing in a body, in any part of the Kingdome.</p>
+            <p>And if it be wondered why we lay ſo long before that place, I can only offer this as my owne obſervation, that we were too few to ſtorm the place, they being between five and ſix thouſand when we ſate downe before it and we but 1500. foot of the Army, beſides part of
+<pb n="5" facs="tcp:162178:4"/>two Regiments of the <hi>Eſſex</hi> Trained-bands, our ſtrength was better in horſe, and beſides, it was held a thing adviſable (ſince we had an enemy) rather to tempt him to ſtay at ſuch a diſtance (as this is) from <hi>London,</hi> then to follow them, and be far off, and ſo unable to helpe the Parlia. if they ſtood in need, and beſides, the ſouldiers being kept in continuall action, in making of works, and approaches, would keep them more in health, and make them better ſouldiers, and our Army now at preſent is ſtronger then when we at firſt ſate down before this place.</p>
+            <p>The like Line, Regular works, Fortifications, and Approaches, have not been made in any part of the Kingdome ſince the firſt warres began.</p>
+         </div>
+      </body>
+      <back>
+         <div type="lists_of_prisoners_and_munitions_taken">
+            <pb n="6" facs="tcp:162178:5"/>
+            <p>There were taken in Town 26. pieces of Ordnance, great and ſmall, about five thouſand Arms, (many of them broken) three thouſand ſixty and ſeven private ſouldiers, and of Officers above three hundred. I am not prepared to give you a particular of the ſeverall perſons, only of ſome of the remarkable of them, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>The Earl of <hi>Norwich.</hi>
+               </item>
+               <item>Lord <hi>Capell.</hi>
+               </item>
+               <item>Sir <hi>Charles Lucas.</hi>
+               </item>
+               <item>The Lord <hi>Louborough.</hi>
+               </item>
+               <item>Col. Sir <hi>VVilliam Compton.</hi>
+               </item>
+               <item>Sir <hi>George Lyle.</hi>
+               </item>
+               <item>Col. Sir <hi>Bernard Gaſcoign.</hi>
+               </item>
+               <item>Sir <hi>Abraham Skipman.</hi>
+               </item>
+               <item>Colonell <hi>William Maxey.</hi>
+               </item>
+               <item>Colonel Sir <hi>Hugh Orelie.</hi>
+               </item>
+               <item>Colonel <hi>Farre.</hi>
+               </item>
+               <item>Colonel <hi>Ayloff.</hi>
+               </item>
+               <item>Colonel <hi>Bard.</hi>
+               </item>
+               <item>Colonel <hi>Hamond.</hi>
+               </item>
+               <item>Colonel <hi>Till.</hi>
+               </item>
+               <item>Colonel <hi>Heath.</hi>
+               </item>
+               <item>Colonel <hi>Tewk.</hi>
+               </item>
+               <item>Colonel <hi>Cheſter.</hi>
+               </item>
+               <item>Colonel <hi>Gilburt.</hi>
+               </item>
+               <item>Colonel <hi>Culpepper.</hi>
+               </item>
+               <item>Sir <hi>Henry Appleton,</hi>
+               </item>
+               <item>Sir <hi>Richard Mauleverer.</hi>
+               </item>
+               <item>Sir <hi>Lodowick Dyer.</hi>
+               </item>
+               <item>Colonel <hi>Sayer.</hi>
+               </item>
+               <item>Colonel <hi>Slingsbie.</hi>
+               </item>
+               <item>Colonel Sir <hi>Charles Haſtings.</hi>
+               </item>
+               <item>Colonel <hi>Lancaſter.</hi>
+               </item>
+               <item>And divers other Knights and Colonels, Lieutenant Colo<g ref="char:EOLhyphen"/>nels, and Majors.</item>
+               <item>Gentlemen of quality, and Re<g ref="char:EOLhyphen"/>formado Officers, 183.</item>
+               <item>Colonel <hi>Cook.</hi>
+               </item>
+               <item>Col. Sir <hi>William Campion.</hi>
+               </item>
+               <item>Lieutenant Col. <hi>Hatcher.</hi>
+               </item>
+               <item>Major <hi>Sturt,</hi> and others of quali<g ref="char:EOLhyphen"/>ty ſlain in the fight the firſt day, and during the Siege.</item>
+            </list>
+            <closer>
+               <signed>T. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
